@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DYUIKit_Tests' do
+  pod 'DYUIKit', :path => '../'
+  
+  
+end
